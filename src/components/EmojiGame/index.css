@@ -1,0 +1,13 @@
+/* Write your code here. */
+.game-display-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+}
+.emojis-cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items:Center;
+}
