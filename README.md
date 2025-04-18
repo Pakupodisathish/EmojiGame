@@ -70,7 +70,9 @@ Each emoji has a unique ID, a name, and a corresponding image URL.
 - [https://assets.ccbp.in/frontend/react-js/lose-game-img.png](https://assets.ccbp.in/frontend/react-js/lose-game-img.png)
 
 ]
-\
+</details>
+
+
 
 Future Enhancements
 - Backend Integration:- Implement a backend using Node.js and Express.js.
