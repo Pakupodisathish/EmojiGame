@@ -1,7 +1,7 @@
 /* Write your code here. */
 .emoji-card {
   width: 150px;
-  height:150px;
+  height: 150px;
   margin: 10px;
   background-color: #fbc7d4;
   border: 2px solid #ffffff30;
@@ -25,18 +25,18 @@
 @media (min-width: 768px) {
   .emoji-card {
     width: 200px;
-    height:200px;
+    height: 200px;
   }
 }
 @media (min-width: 992px) {
   .emoji-card {
     width: 250px;
-    height:150px;
+    height: 150px;
   }
 }
-@media (min-width:1200px){
-  .emoji-card{
-    width:300px;
-    height:150px;
+@media (min-width: 1200px) {
+  .emoji-card {
+    width: 300px;
+    height: 150px;
   }
 }
